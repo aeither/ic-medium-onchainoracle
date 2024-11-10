@@ -1,0 +1,8 @@
+{
+  "onChainOracle_backend": {
+    "ic": "lm4mr-hqaaa-aaaal-arp7q-cai"
+  },
+  "onChainOracle_frontend": {
+    "ic": "pb34j-sqaaa-aaaal-arqaa-cai"
+  }
+}
